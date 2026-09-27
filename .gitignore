@@ -1,0 +1,20 @@
+# Runtime state and private server data must never be published.
+.arena-settlement-v5/
+.arena-season-controller.lock
+*.disabled-by-v5
+*.conf
+*.conf.original
+*.sql
+*.log
+*.pid
+*.out
+*.err
+*.exe
+*.dll
+*.lar
+data/
+Database/
+private-*/
+preview-*/
+runtime/
+safety-fixture-*/

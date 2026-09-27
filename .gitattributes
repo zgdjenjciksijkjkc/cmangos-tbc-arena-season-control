@@ -1,0 +1,3 @@
+# Preserve all distributed bytes, checksums and runtime UTF-8 BOM.
+* -text
+*.zip binary
