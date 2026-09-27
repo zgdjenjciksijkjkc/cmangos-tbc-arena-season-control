@@ -1,0 +1,5 @@
+﻿PASS: Expected next-season state
+PASS: S2 settled
+PASS: S2 correct mount count
+PASS: S2 correct champion titles
+PASS: S1 mail preserved across later seasons

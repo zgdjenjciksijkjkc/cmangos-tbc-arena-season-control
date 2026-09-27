@@ -1,0 +1,7 @@
+﻿PASS: Expected next-season state
+PASS: S3 settled
+PASS: S3 correct mount count
+PASS: S3 correct champion titles
+PASS: S1 mail preserved across later seasons
+PASS: Refused Preseason / 
+PASS: Refused Settle / 

@@ -1,0 +1,14 @@
+﻿PASS: Refused Settle / SqlFailure
+PASS: Failed settlement restores world, status and character fingerprint
+PASS: Failed settlement leaves S1 active
+PASS: S1 settled
+PASS: S1 only 28 correct mounts
+PASS: Refused Settle / 
+PASS: Duplicate no-op
+PASS: Integrated undo restores pre-settlement fingerprint
+PASS: Refused Undo / 
+PASS: Reissue after verified undo grants once
+PASS: Refused S2 / AfterCommit
+PASS: Commit survived simulated interruption
+PASS: Refused Undo / 
+PASS: Next season reset games

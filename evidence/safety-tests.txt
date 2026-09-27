@@ -1,0 +1,6 @@
+﻿PASS: legacy file disable, repeat, and byte-identical restore
+PASS: legacy restoration refuses to overwrite a new user file
+PASS: unchanged roster uses the confirmed native bot reset ratings
+PASS: changed roster is recalculated in the isolated clone
+PASS: changes during evaluation prevent production reset
+PASS: settled plan must match database ledger hash
